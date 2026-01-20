@@ -1,19 +1,17 @@
-- Hi there! I'm Josh, a passionate Computer Science student . I love building real-world tech solutions and exploring how code can transform ideas into apps that people actually use.
-
-🔧 What I do:
-
- Python developer with hands-on experience building cross-platform apps using Kivy
-
- Web developer skilled in HTML, CSS, and JavaScript — I enjoy creating responsive, user-friendly websites
-
- Constantly learning and experimenting with new tools, libraries, and frameworks
-
- Currently diving deeper into mobile development and embedded systems using Java, Arduino and Kotlin
-
- I enjoy solving problems, working on creative projects, and contributing to tech communities. Check out my pinned projects to see what I've been building!
-
-
- Let's Connect! I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out:
-
-Email: mulijoshua681@gmail.com
-LinkedIn:https://www.linkedin.com/in/joshua-muli-7715572b5/?trk=opento_sprofile_details
+👋 Hey, I'm Josh!
+🚀 I'm a creative Front-End Developer building responsive web interfaces for the modern web. I focus on creating intuitive, visually engaging, and high-performance applications — leveraging the power of React and the modern JavaScript ecosystem.
+🧠 What I'm Working On
+    • 🎬 React Movie Web App – A dynamic platform for browsing and tracking film data
+    • ☁️ Weather Dashboard – Real-time meteorological forecasting with a clean UI 
+    • 🎵 Music Web App – An interactive audio streaming interface 
+🛠️ My Tech Stack
+    • Frontend & Languages HTML, CSS, JavaScript, TypeScript, React (Hooks, Component Design)
+    • Backend & Databases Java (Backend Logic) MySQL, MongoDB
+    • DevOps & Tools Docker (Containerization) GitHub Actions (CI/CD) Git & Version Control
+📈 Currently Exploring
+    • 📱 Native Android development with Kotlin 
+    • ☕ Enterprise-level backend architecture with Java 
+    • 🔄 Automating workflows with GitHub Actions 
+    • 🐳 Containerized deployment strategies with Dockerts & Demos
+   
+🔗 Let's Connect
