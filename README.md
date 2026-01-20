@@ -1,4 +1,4 @@
-👋 Hey, I'm Josh!
+#👋 Hey, I'm Josh!
 🚀 I'm a creative Front-End Developer building responsive web interfaces for the modern web. I focus on creating intuitive, visually engaging, and high-performance applications — leveraging the power of React and the modern JavaScript ecosystem.
 🧠 What I'm Working On
     • 🎬 React Movie Web App – A dynamic platform for browsing and tracking film data
