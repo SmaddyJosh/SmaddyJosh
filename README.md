@@ -40,7 +40,7 @@
 
 ## 🔗 Let's Connect
 
-* 💼 **LinkedIn:** [Add Your Link Here](https://linkedin.com)
+* 💼 **LinkedIn:** ([https://linkedin.com](https://www.linkedin.com/in/joshua-muli-7715572b5/))
 * 🐦 **Twitter:** [Add Your Link Here](https://twitter.com)
 * 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
 * 📂 **Portfolio:** [Add Your Link Here](https://your-portfolio.com)
