@@ -41,5 +41,5 @@
 ## 🔗 Let's Connect
 
 * 💼 **LinkedIn:** ([https://linkedin.com](https://www.linkedin.com/in/joshua-muli-7715572b5/))
-* 📧 **Email:** [your-email@example.com](mulijoshua681@gmail.com)
+* 📧 **Email:** [your-email@example.com](mail to:mulijoshua681@gmail.com)
 * 📂 **Portfolio:** [Add Your Link Here]([https://your-portfolio.com](https://main-portfolio-one-psi.vercel.app/))
